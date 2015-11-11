@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# Version 0.4n
+
+/
+/static/js/jquery.min.js
+/static/js/jquery.mobile-1.4.4.min.js
+/static/js/simpleStorage.js
+/static/js/jquery.flot.js
+/static/css/images/ajax-loader.gif
+/static/js/DataContext.js
+/static/js/ReleveModel.js
+/static/js/Controller.js
+/static/css/jquery.mobile-1.4.4.min.css
+/static/img/warning.png
+/static/css/main.css
+/static/favicon.ico
+
+NETWORK:
+/api
